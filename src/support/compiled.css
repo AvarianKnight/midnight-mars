@@ -695,14 +695,14 @@
     left: var(--separation-padding);
 }
 
-#app-mount .peopleList-3c4jOR,
+#app-mount .peopleColumn-1wMU14,
 #app-mount .friendsEmpty-1K9B4k {
     background-color: var(--background-primary);
 }
 #app-mount .title-30qZAO {
     margin-left: 13px;
 }
-#app-mount .peopleListItem-2nzedh {
+#app-mount .peopleColumn-1wMU14 {
     background-color: var(--background-secondary);
     border-radius: 5px;
     border: solid 1px var(--background-secondary-alt);
@@ -710,13 +710,13 @@
     margin: 8px;
     margin-left: 12px;
 }
-#app-mount .peopleListItem-2nzedh .actionButton-uPB8Fs {
+#app-mount .peopleColumn-1wMU14 .actionButton-uPB8Fs {
     background-color: var(--background-modifier-accent);
 }
-#app-mount .peopleListItem-2nzedh:hover {
+#app-mount .peopleColumn-1wMU14:hover {
     background-color: var(--background-secondary-alt);
 }
-#app-mount .peopleListItem-2nzedh:hover .actionButton-uPB8Fs {
+#app-mount .peopleColumn-1wMU14:hover .actionButton-uPB8Fs {
     background-color: var(--background-tertiary);
 }
 #app-mount .nowPlayingColumn-2sl4cE {
